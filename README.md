@@ -42,7 +42,7 @@ Frontend
 |[Yeoman](http://yeoman.io/)|[chestnut](https://github.com/plexus/chestnut), [tenzing](https://github.com/martinklepsch/tenzing)|
 |[grunt live reload](https://github.com/gruntjs/grunt-contrib-watch#optionslivereload)|[figwheel](https://github.com/bhauman/lein-figwheel)|
 |[Angular](https://angularjs.org/)|[react](https://facebook.github.io/react/) + [om](https://github.com/omcljs/om)/[reagent](https://github.com/reagent-project/reagent)/[quiescent](https://github.com/levand/quiescent)/[rum](https://github.com/tonsky/rum)|
-|[Karma](http://karma-runner.github.io/)|[cljs.test](https://github.com/clojure/clojurescript/wiki/Testing)|
+|[Karma](http://karma-runner.github.io/)|[cljs.test](https://github.com/clojure/clojurescript/wiki/Testing), [doo](https://github.com/bensu/doo)|
 
 Other
 -----
