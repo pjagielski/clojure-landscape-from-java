@@ -23,16 +23,18 @@ Backend
 |WebSockets|[sente](https://github.com/ptaoussanis/sente)|
 |[Jackson](http://wiki.fasterxml.com/JacksonHome)|[cheshire](https://github.com/dakrone/cheshire)|
 |[Thymeleaf](http://www.thymeleaf.org/)|[enlive](https://github.com/cgrand/enlive), [hiccup](https://github.com/weavejester/hiccup), [selmer](https://github.com/yogthos/Selmer)|
+|[JAWR](https://jawr.java.net/)|[optimus](https://github.com/magnars/optimus)|
 |Bean Validation|[schema](https://github.com/Prismatic/schema)|
 |[Logback](http://logback.qos.ch/)|[timbre](https://github.com/ptaoussanis/timbre)|
+|[OkHttp](http://square.github.io/okhttp/), [Apache Http Client](https://hc.apache.org/httpcomponents-client-ga/)|[clj-http](https://github.com/dakrone/clj-http)|
 |[JUnit](http://junit.org/)/[AssertJ](http://joel-costigliola.github.io/assertj/)|[clojure.test](http://blog.jayfields.com/2010/08/clojuretest-introduction.html), [humane-test-output](https://github.com/pjstadig/humane-test-output), [midje](https://github.com/marick/Midje), [expectations](http://jayfields.com/expectations/)|
+|[Wiremock](http://wiremock.org/)|[clj-http-fake](https://github.com/myfreeweb/clj-http-fake)|
 |[Spring Security](http://projects.spring.io/spring-security/)|[friend](https://github.com/cemerick/friend), [buddy](https://github.com/funcool/buddy/)|
 |[Spring Data](http://projects.spring.io/spring-data/)|[system](https://github.com/danielsz/system)|
 |JPA|[korma](http://sqlkorma.com/)|
 |[JDBI](http://jdbi.org), [JOOQ](http://www.jooq.org/)|[honeysql](https://github.com/jkk/honeysql), [yesql](https://github.com/krisajenkins/yesql)|
 |[Liquibase](http://www.liquibase.org)|[ragtime](https://github.com/weavejester/ragtime), [migratus](https://github.com/yogthos/migratus)|
 |[JRebel](http://zeroturnaround.com/software/jrebel/), [Spring loaded](https://github.com/spring-projects/spring-loaded)|[reloaded.repl](https://github.com/weavejester/reloaded.repl)|
-|[JAWR](https://jawr.java.net/)|[optimus](https://github.com/magnars/optimus)|
 
 Frontend
 --------
@@ -43,6 +45,8 @@ Frontend
 |[Yeoman](http://yeoman.io/)|[chestnut](https://github.com/plexus/chestnut), [tenzing](https://github.com/martinklepsch/tenzing)|
 |[grunt live reload](https://github.com/gruntjs/grunt-contrib-watch#optionslivereload)|[figwheel](https://github.com/bhauman/lein-figwheel)|
 |[Angular](https://angularjs.org/)|[react](https://facebook.github.io/react/) + [om](https://github.com/omcljs/om)/[reagent](https://github.com/reagent-project/reagent)/[quiescent](https://github.com/levand/quiescent)/[rum](https://github.com/tonsky/rum)|
+|[Angular $http](https://docs.angularjs.org/api/ng/service/$http)|[cljs-http](https://github.com/r0man/cljs-http)|
+|[Angular UI bootstrap](https://angular-ui.github.io/bootstrap/)|[om-bootstrap](https://github.com/racehub/om-bootstrap), [bootstrap-cljs](https://github.com/luxbock/bootstrap-cljs), [re-com](https://github.com/Day8/re-com)|
 |[Karma](http://karma-runner.github.io/)|[cljs.test](https://github.com/clojure/clojurescript/wiki/Testing), [doo](https://github.com/bensu/doo)|
 
 Other
