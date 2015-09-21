@@ -32,6 +32,7 @@ Backend
 |[JDBI](http://jdbi.org), [JOOQ](http://www.jooq.org/)|[honeysql](https://github.com/jkk/honeysql), [yesql](https://github.com/krisajenkins/yesql)|
 |[Liquibase](http://www.liquibase.org)|[ragtime](https://github.com/weavejester/ragtime), [migratus](https://github.com/yogthos/migratus)|
 |[JRebel](http://zeroturnaround.com/software/jrebel/), [Spring loaded](https://github.com/spring-projects/spring-loaded)|[reloaded.repl](https://github.com/weavejester/reloaded.repl)|
+|[JAWR](https://jawr.java.net/)|[optimus](https://github.com/magnars/optimus)|
 
 Frontend
 --------
