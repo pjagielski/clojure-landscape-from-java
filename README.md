@@ -19,8 +19,8 @@ Backend
 |[Maven](https://maven.apache.org/), [Gradle](https://gradle.org/) | [leiningen](http://leiningen.org/) |
 |[Spring](http://projects.spring.io/spring-framework/) | [component](https://github.com/stuartsierra/component), [system](https://github.com/danielsz/system) |
 |[Spring Boot](http://projects.spring.io/spring-boot/) | [duct](https://github.com/weavejester/duct), [modularity](https://modularity.org/templates/hello-world-web.html), [mr-clojure](https://github.com/mixradio/mr-clojure), [compojure-api](https://github.com/metosin/compojure-api), [tesla-microservice](https://github.com/otto-de/tesla-microservice)|
-|[Spring MVC](http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/html/mvc.html)|[compojure](https://github.com/weavejester/compojure)|
-|WebSockets|[sente](https://github.com/ptaoussanis/sente)|
+|[Spring MVC](http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/html/mvc.html)|[compojure](https://github.com/weavejester/compojure), [compojure-api](https://github.com/metosin/compojure-api)|
+|WebSockets|[sente](https://github.com/ptaoussanis/sente), [chord](https://github.com/jarohen/chord), [gniazdo](https://github.com/stylefruits/gniazdo)|
 |[Jackson](http://wiki.fasterxml.com/JacksonHome)|[cheshire](https://github.com/dakrone/cheshire)|
 |[Thymeleaf](http://www.thymeleaf.org/)|[enlive](https://github.com/cgrand/enlive), [hiccup](https://github.com/weavejester/hiccup), [selmer](https://github.com/yogthos/Selmer)|
 |[JAWR](https://jawr.java.net/)|[optimus](https://github.com/magnars/optimus)|
@@ -45,9 +45,10 @@ Frontend
 |[Grunt](http://gruntjs.com/)|[leiningen](http://leiningen.org/), [boot](http://boot-clj.com/)|
 |[Yeoman](http://yeoman.io/)|[chestnut](https://github.com/plexus/chestnut), [tenzing](https://github.com/martinklepsch/tenzing)|
 |[grunt live reload](https://github.com/gruntjs/grunt-contrib-watch#optionslivereload)|[figwheel](https://github.com/bhauman/lein-figwheel)|
-|[Angular](https://angularjs.org/)|[react](https://facebook.github.io/react/) + [om](https://github.com/omcljs/om)/[reagent](https://github.com/reagent-project/reagent)/[quiescent](https://github.com/levand/quiescent)/[rum](https://github.com/tonsky/rum)|
+|[Angular](https://angularjs.org/)| [om](https://github.com/omcljs/om)/[reagent](https://github.com/reagent-project/reagent)/[quiescent](https://github.com/levand/quiescent)/[rum](https://github.com/tonsky/rum)/[brutha](https://github.com/weavejester/brutha)|
 |[Angular $http](https://docs.angularjs.org/api/ng/service/$http)|[cljs-http](https://github.com/r0man/cljs-http)|
 |[Angular UI bootstrap](https://angular-ui.github.io/bootstrap/)|[om-bootstrap](https://github.com/racehub/om-bootstrap), [bootstrap-cljs](https://github.com/luxbock/bootstrap-cljs), [re-com](https://github.com/Day8/re-com)|
+|[Angular UI router](https://github.com/angular-ui/ui-router)|[secretary](https://github.com/gf3/secretary)|
 |[Karma](http://karma-runner.github.io/)|[cljs.test](https://github.com/clojure/clojurescript/wiki/Testing), [doo](https://github.com/bensu/doo)|
 
 Other
