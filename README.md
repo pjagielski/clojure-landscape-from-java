@@ -17,7 +17,7 @@ Backend
 |------|---------|
 |[JHipster](https://jhipster.github.io/)|[luminus](http://www.luminusweb.net/)|
 |[Maven](https://maven.apache.org/), [Gradle](https://gradle.org/) | [leiningen](http://leiningen.org/) |
-|[Spring](http://projects.spring.io/spring-framework/) | [component](https://github.com/stuartsierra/component), [system](https://github.com/danielsz/system) |
+|[Spring](http://projects.spring.io/spring-framework/) | [component](https://github.com/stuartsierra/component), [yoyo](https://github.com/jarohen/yoyo), [trapperkeeper](https://github.com/puppetlabs/trapperkeeper), [mount](https://github.com/tolitius/mount)|
 |[Spring Boot](http://projects.spring.io/spring-boot/) | [duct](https://github.com/weavejester/duct), [modularity](https://modularity.org/templates/hello-world-web.html), [mr-clojure](https://github.com/mixradio/mr-clojure), [compojure-api](https://github.com/metosin/compojure-api), [tesla-microservice](https://github.com/otto-de/tesla-microservice)|
 |[Spring MVC](http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/html/mvc.html)|[compojure](https://github.com/weavejester/compojure), [compojure-api](https://github.com/metosin/compojure-api)|
 |WebSockets|[sente](https://github.com/ptaoussanis/sente), [chord](https://github.com/jarohen/chord), [gniazdo](https://github.com/stylefruits/gniazdo)|
